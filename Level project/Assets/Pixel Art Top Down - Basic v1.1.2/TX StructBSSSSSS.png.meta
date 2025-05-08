@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TX StructBSSSSSS_0: 6861207037182073043
+      TX StructBSSSSSS_1: -6825219599242085591
+      TX StructBSSSSSS_2: -1190015428257399170
+      TX StructBSSSSSS_3: -4618929254616276544
+      TX StructBSSSSSS_4: 4571821855656030712
+      TX StructBSSSSSS_5: 6382694975077666676
+      TX StructBSSSSSS_6: 3809359605265408365
+      TX StructBSSSSSS_7: 4111916368790315038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

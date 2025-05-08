@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TX Tileset WalTemplel_0: 2827321978337877458
+      TX Tileset WalTemplel_1: -7423757771778408455
+      TX Tileset WalTemplel_2: -2880965882552403105
+      TX Tileset WalTemplel_3: -2647777950005673210
+      TX Tileset WalTemplel_4: 8435328414837060570
+      TX Tileset WalTemplel_5: 1800356084693747915
+      TX Tileset WalTemplel_6: -2210788529595269462
+      TX Tileset WalTemplel_7: 2584556963870181009
+      TX Tileset WalTemplel_8: 5498490058317436759
+      TX Tileset WalTemplel_9: -6386519471735867824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
